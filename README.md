@@ -27,3 +27,16 @@
   <li>Insertion and deletion may takes the O(1) time complexity as know tail pointer</li>
   <li>Accessing elements will take O(1) elements </li>
 </ul>
+
+<h1>Recursion</h1>
+<ul>
+  <li>It is one of the programming technique in which function calls like in call stack</li>
+  <li>It consits of base case and recursive case</li>
+  <li> base case one which stops recursion while recusive case one should call function again</li>
+  <li>Thesse functions are stored in stack like data structure</li>
+</ul>
+<h1>Stacks</h1>
+<ul>
+  <li>Stack is data structure behind function call stack</li>
+  <li>It opeates on priciple last in first out</li>
+</ul>
