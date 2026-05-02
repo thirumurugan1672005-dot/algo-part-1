@@ -40,3 +40,14 @@
   <li>Stack is data structure behind function call stack</li>
   <li>It opeates on priciple last in first out</li>
 </ul>
+
+<h1>Sorting Algorithms</h1>
+<ul>
+  <li>They are used to arrange elements in ascending or descending order</li>
+  <li>The selection sort algorithm is one of the basic sorting algorithm which  swaps based on selecting next best element</li>
+</ul>
+<h1>Divide and conquer </h1>
+<ul>
+  <li>Divide and conquer technique is used to divide and conquer to divide the problems into sub problems and solve towards base case </li>
+  <li>Quick Sort is one such example of Divide and conquer</li>
+</ul>
