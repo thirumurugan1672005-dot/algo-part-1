@@ -1,3 +1,6 @@
+<h1>Algorithms Basics</h1>
+
+             
 1 .Algorithms : Algorithms are the step by step instruction to execute a task<br/>
 2. Runtime of an algorithm depends on number of operations as do as increase in input size <br/>
 3 .Big O notation is widely used to determine runtime of an algorithm<br/>
